@@ -1,18 +1,86 @@
-# 💫 About Me:
-I'm currently working on<br>AI-powered automation workflows and web design projects — combining prompt engineering with real-world tools to build things that actually work.<br>I'm looking to collaborate on<br>Startups and founder-led projects that need someone who can think in systems — design the experience and automate the backend with AI.<br>I'm looking for help with<br>Scaling my automation workflows and connecting them to more complex pipelines.<br>I'm currently learning<br>Advanced AI agent architectures and image generation pipelines — always pushing what's possible with the right prompt.<br>Ask me about<br>Prompt engineering, AI automation workflows, web design, or how to make AI actually do useful things.<br>Fun fact<br>I'm a designer with an engineer's brain — if I can prompt it, I can build it. Based in India, building for the world. 🇮🇳
+<div align="center">
 
+# Krishna Nartam
+### Full-Stack Engineer • AI Automation Architect • Product Designer
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]https://www.linkedin.com/in/krishna-nartam?utm_source=share_via&utm_content=profile&utm_medium=member_android [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Krishnanartam) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Krishna Nartam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnanartam911@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/KrishnaNartam)
+[![Portfolio](https://img.shields.io/badge/Medium-Articles-12100E?style=flat-square&logo=medium)](https://medium.com/@Krishnanartam)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail)](mailto:krishnanartam911@gmail.com)
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=KrishnaNartam&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=KrishnaNartam&theme=github_dark_dimmed&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=KrishnaNartam&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**"If I can think it, I can prompt it. If I can prompt it, I can build it."**
+*Bridging the gap between complex engineering and seamless user experience.*
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=KrishnaNartam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Professional Profile
+I am a **Systems-First Engineer** specializing in autonomous workflows and intelligent web platforms. I help startups and industrial ventures scale by replacing manual bottlenecks with robust AI architectures and precision-engineered code.
+
+*   **Engineering:** Full-stack development with a focus on performance, scalability, and type safety.
+*   **Automation:** End-to-end LLM orchestration and IIoT data pipeline integration.
+*   **Design:** Functional, minimalist UI/UX that prioritizes clarity and brand identity.
+
+---
+
+## 🏆 Technical Milestones
+*   **LeetCode Global Top 4%:** Ranked among the top competitive programmers globally, demonstrating advanced algorithmic efficiency and logic.
+*   **IIoT Innovation:** Successfully architected the **Chronos** dashboard, bridging hardware data with actionable business insights.
+*   **Product Branding:** Led end-to-end brand identity for **Saaj Events**, from visual concept to digital deployment.
+
+---
+
+## 🛠️ Technical Ecosystem
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java (Spring Boot), TypeScript, Node.js, Python, C++, C |
+| **AI & Automation** | n8n, Node-RED, LangChain, Custom Prompt Engineering |
+| **Frontend & Design** | React, SASS/SCSS, HTML5, Figma, Adobe Suite |
+| **Cloud & Tools** | AWS, Supabase, Docker, GitHub Actions, NPM, Windows Terminal |
+
+---
+
+## 🚀 Featured Case Studies
+> *Note: Some repositories are private due to NDA or proprietary industrial logic. Technical deep-dives are available upon request.*
+
+### 🤖 Chronos: Industrial IoT & OEE Analytics
+*   **The Problem:** Manufacturing units lacked real-time visibility into machine efficiency (OEE).
+*   **The Solution:** Built a live analytics dashboard processing machine data via **n8n** and **Node-RED** for real-time visualization.
+*   **Stack:** Node.js, n8n, Supabase, Industrial IoT Pipelines.
+
+### 📦 ShelfSenseAI: Computer Vision Inventory
+*   **The Problem:** Manual inventory tracking leading to high error rates and logistics delays.
+*   **The Solution:** Developed a real-time tracking system using **YOLOv5** to automate inventory logging.
+*   **Stack:** Python, YOLOv5, React, PostgreSQL.
+
+### 🎭 Saaj Events: Digital Brand Architecture
+*   **The Problem:** Need for a premium, culturally-specific visual identity for event management.
+*   **The Work:** Designed the complete brand system and high-conversion UI/UX for the platform.
+*   **Stack:** Figma, SASS, Brand Strategy.
+
+---
+
+## 📈 Performance & Impact
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=KrishnaNartam&theme=github_dark_dimmed&show_icons=true&hide_border=false&count_private=true" alt="Krishna's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KrishnaNartam&theme=github_dark_dimmed&layout=compact&hide_border=false" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+## 🤝 Collaboration & Consulting
+I am currently open to **Freelance Consulting** and **Founder-led projects**.
+
+*   **Current Focus:** Advanced AI agent architectures and generative image pipelines.
+*   **Collaborate on:** Scalable automation, MVP development, and brand systems.
+
+---
+
+<div align="center">
+
+*Building for the world from Pune, India.* 🇮🇳
+
+<sub>© 2026 Krishna Nartam • Built with Precision</sub>
+</div>
