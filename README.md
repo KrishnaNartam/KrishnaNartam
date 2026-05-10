@@ -1,15 +1,11 @@
 <div align="center">
 
-# Hey, I'm Krishh 👋
-
-**Prompt Engineer · AI Automation Builder · Web Designer**
+# Hey, I'm Krishna Nartam 👋
+### Prompt Engineer · AI Automation Builder · Web Designer
 
 *I don't just use AI — I make it work.*
-Based in India 🇮🇳 · Building for the world 🌍
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+🇮🇳 Based in India · Building for the world 🌍
 
 </div>
 
@@ -23,64 +19,92 @@ I sit at the intersection of **AI**, **automation**, and **design** — helping 
 
 ---
 
-## 🔭 I'm Currently Working On
+# 💫 About Me
 
-- AI-powered **automation workflows** that connect tools, reduce manual effort, and actually work at scale
-- **Web design projects** built with a sharp eye for detail and an AI-first mindset
-- Exploring the edges of what's possible with the right prompt
+🔭 **I'm currently working on**
+AI-powered automation workflows and web design projects — combining prompt engineering with real-world tools to build things that actually work.
 
----
+🤝 **I'm looking to collaborate on**
+Startups and founder-led projects that need someone who can think in systems — design the experience and automate the backend with AI.
 
-## 🤝 I'm Looking to Collaborate On
+🆘 **I'm looking for help with**
+Scaling my automation workflows and connecting them to more complex pipelines.
 
-- **Startup and founder-led projects** that need someone who can think end-to-end
-- Products that need both a **design brain** and an **AI automation layer**
-- Anything where the brief is: *"we need to move fast and make it look good"*
+🌱 **I'm currently learning**
+Advanced AI agent architectures and image generation pipelines — always pushing what's possible with the right prompt.
 
----
+💬 **Ask me about**
+Prompt engineering, AI automation workflows, web design, or how to make AI actually do useful things.
 
-## 🌱 I'm Currently Learning
-
-- Advanced **AI agent architectures** and multi-step reasoning pipelines
-- **Image generation workflows** — ComfyUI, IP-Adapter, and beyond
-- Connecting automation to real product workflows at scale
+⚡ **Fun fact**
+I'm a designer with an engineer's brain — if I can prompt it, I can build it. 🇮🇳
 
 ---
 
-## 💬 Ask Me About
+## 🚀 Projects
 
-- **Prompt engineering** — structuring prompts that produce reliable, production-grade output
-- **AI automation workflows** — tools, logic, and connecting the right pieces
-- **Web design** — from concept to clean, working interfaces
-- How to make AI *actually useful* in a real project
+### 🤖 AI Automation Workflows
+> End-to-end automation pipelines built with AI — connecting tools, eliminating repetitive tasks, and scaling what humans shouldn't have to do manually.
+- Built using Node-RED, Supabase, and custom prompt chains
+- Designed for real-world startup use cases
+
+### 🌐 Web Design Projects
+> Clean, purposeful web interfaces designed with an AI-first mindset.
+- Focus on speed, clarity, and strong visual identity
+- HTML5, CSS/SASS, and JavaScript
+
+### 🎨 Brand Identity Work
+> Logo systems and visual identities built for clients — from concept to final deliverable.
+- Cultural specificity, premium aesthetics, print-ready outputs
+
+> 💡 *More projects coming soon — currently pushing work to repos.*
 
 ---
 
-## ⚡ Fun Fact
+## 🌐 Socials
 
-> I'm a designer with an engineer's brain.
-> Give me a problem and I'll find the AI-powered path through it — then make it look great too.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KrishnaNartam)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Krishnanartam)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@KrishnaNartam)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnanartam911@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=KrishnaNartam&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=KrishnaNartam&theme=github_dark_dimmed&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=KrishnaNartam&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 <div align="center">
 
-## 🛠️ My Stack
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-
----
-
 *Open to freelance · consulting · and building cool things with ambitious founders.*
 
-**Let's connect → [your email or link here]**
+📩 **krishnanartam911@gmail.com**
+
+[![](https://komarev.com/ghpvc/?username=KrishnaNartam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
