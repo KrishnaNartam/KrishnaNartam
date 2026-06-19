@@ -1,154 +1,170 @@
-# Hi, I'm Krishna Nartam 👋
+# Hi 👋, I'm Krishna Nartam
 
-### AI Automation Engineer • Full-Stack Developer • Industrial IoT Builder
+### AI Automation Engineer || Full-Stack Developer || Industrial IoT Builder
 
-I am a Mechanical Engineering student passionate about building AI-powered software, automation systems, and Industrial IoT solutions.
+🌱 I’m currently learning **Agentic AI Systems, LangChain, RAG Applications, Cloud Deployment, and Advanced Automation Workflows**
 
-My work focuses on combining Artificial Intelligence, workflow automation, and modern web technologies to solve real-world business and manufacturing problems.
+👯 I’m looking to collaborate on **AI Applications, AI Agents, Workflow Automation, Industrial IoT Solutions, Full-Stack Web Applications, and Open-Source Projects**
 
----
+🤝 I’m looking for help with **Advanced AI Agent Architectures, Scalable System Design, and Industrial Data Engineering**
 
-## 🚀 About Me
+👨‍💻 All of my projects are available at:
+**https://github.com/KrishnaNartam**
 
-* 🎓 Mechanical Engineering Student (2023–2027)
-* 🤖 Building AI Automation Systems and Agentic Workflows
-* 🌐 Full-Stack Developer (React, Next.js, Node.js)
-* 🏭 Industrial IoT and Manufacturing Analytics Enthusiast
-* ⚡ Interested in AI Agents, LLM Applications, and Smart Manufacturing
-* 📍 Pune, India
+💬 Ask me about:
 
----
+* Artificial Intelligence & AI Automation
+* Prompt Engineering & LLM Integration
+* React.js & Next.js Development
+* Node.js & REST APIs
+* Industrial IoT Systems
+* MQTT & OEE Monitoring
+* Workflow Automation using n8n & Node-RED
 
-## 🛠 Tech Stack
+📫 How to reach me:
+**[krishnanartam911@gmail.com](mailto:krishnanartam911@gmail.com)**
 
-### Languages
+📱 Contact:
+**+91 9921231669**
+**+91 9146231669**
 
-Python • JavaScript • SQL • C • C++
-
-### Frontend
-
-React.js • Next.js • HTML5 • CSS3 • SASS
-
-### Backend
-
-Node.js • Express.js • REST APIs • JWT Authentication
-
-### Databases
-
-PostgreSQL • MongoDB
-
-### AI & Automation
-
-OpenAI APIs • LLM Integration • Prompt Engineering • AI Agents • Agentic Workflows • n8n • Node-RED
-
-### Industrial IoT
-
-MQTT • OEE Monitoring • Real-Time Data Processing • Manufacturing Analytics
-
-### Cloud & DevOps
-
-AWS • Docker • Git • GitHub
+📍 Pune, Maharashtra, India
 
 ---
 
-# Featured Projects
+### Connect With Me
 
-## 🤖 AI Resume Builder
+<p align="left">
+<a href="https://linkedin.com/in/krishnanartam" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
 
-AI-powered platform that generates ATS-friendly resumes using Large Language Models.
+<a href="https://github.com/KrishnaNartam" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
+</a>
 
-### Key Features
-
-* AI-generated professional summaries
-* Dynamic skills and project generation
-* PDF export functionality
-* Authentication and resume management
-* Responsive modern UI
-
-**Tech Stack:** React.js, Next.js, Node.js, PostgreSQL, OpenAI API
-
----
-
-## 🏭 Real-Time OEE Monitoring Dashboard
-
-Industrial IoT dashboard for monitoring machine efficiency and manufacturing KPIs.
-
-### Key Features
-
-* Real-time machine monitoring
-* OEE analytics
-* Manufacturing KPI visualization
-* Data acquisition pipelines
-* Industrial reporting dashboards
-
-**Tech Stack:** React.js, Node.js, MQTT, PostgreSQL, Power BI
+<a href="mailto:krishnanartam911@gmail.com">
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-## 🏘 Multi-Brand Real Estate Platform
+### Languages and Tools
 
-Scalable property management platform supporting multiple brands through a unified architecture.
+<p align="left">
 
-### Key Features
+<a href="https://www.python.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
 
-* Property listing management
-* Lead generation workflows
-* Role-based access control
-* Inquiry management system
-* Cloud-ready deployment architecture
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
 
-**Tech Stack:** Next.js, React.js, Node.js, PostgreSQL, AWS
+<a href="https://react.dev">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+</a>
 
----
+<a href="https://nextjs.org">
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/>
+</a>
 
-## 🎟 Event Management Platform
+<a href="https://nodejs.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+</a>
 
-Full-stack application for event creation, registration, attendee management, and analytics.
+<a href="https://www.postgresql.org">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+</a>
 
-### Key Features
+<a href="https://www.mongodb.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
+</a>
 
-* Event registration workflows
-* JWT authentication
-* Role-based authorization
-* Automated notifications
-* Analytics dashboards
+<a href="https://aws.amazon.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+</a>
 
-**Tech Stack:** React.js, Next.js, Node.js, PostgreSQL
+<a href="https://www.docker.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+</a>
 
----
+<a href="https://git-scm.com">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
+</a>
 
-## 🧠 The Anti-Cringe Brand Sentinel
+<a href="https://n8n.io">
+<img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" width="40" height="40"/>
+</a>
 
-AI-powered content auditing platform for evaluating brand content before publication.
+<a href="https://nodered.org">
+<img src="https://nodered.org/about/resources/media/node-red-icon.svg" width="40" height="40"/>
+</a>
 
-### Key Features
-
-* LLM-powered content review
-* Computer Vision analysis
-* Brand consistency scoring
-* Automated recommendations
-* Workflow automation
-
-**Tech Stack:** Next.js, AI/LLMs, Computer Vision, PostgreSQL
-
----
-
-## 📚 Currently Learning
-
-* Advanced AI Agent Architectures
-* LangChain & Agentic Systems
-* Retrieval-Augmented Generation (RAG)
-* Cloud Deployment & DevOps
-* Scalable Backend Systems
+</p>
 
 ---
 
-## 📫 Connect With Me
+### Featured Projects
 
-* GitHub: https://github.com/KrishnaNartam
-* LinkedIn: https://linkedin.com/in/krishnanartam
-* Email: [krishnanartam911@gmail.com](mailto:krishnanartam911@gmail.com)
+🚀 **AI Resume Builder**
+
+* AI-powered ATS Resume Generator
+* LLM Integration
+* PDF Export
+* User Authentication
+
+🏭 **Real-Time OEE Monitoring Dashboard**
+
+* Industrial IoT Analytics
+* Machine Monitoring
+* Manufacturing KPIs
+* MQTT Integration
+
+🏘 **Multi-Brand Real Estate Platform**
+
+* Property Management
+* Lead Generation
+* RBAC Authentication
+* Cloud Ready Architecture
+
+🎟 **Event Management Platform**
+
+* Event Registration
+* Attendee Management
+* Analytics Dashboard
+* Automated Notifications
+
+🧠 **The Anti-Cringe Brand Sentinel**
+
+* AI Content Auditing
+* LLM Analysis
+* Computer Vision
+* Automated Recommendations
 
 ---
 
-> Building intelligent systems that bridge AI, automation, and industrial engineering.
+### GitHub Stats
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=KrishnaNartam&show_icons=true&theme=github_dark" alt="github stats"/>
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaNartam&theme=github-dark" alt="github streak"/>
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaNartam&layout=compact&theme=github_dark" alt="top langs"/>
+</p>
+
+---
+
+### Areas of Interest
+
+Artificial Intelligence • AI Automation • Agentic AI Systems • Industrial IoT • Smart Manufacturing • Workflow Automation • Full-Stack Development • Software Engineering • Intelligent Systems • Data Analytics
+
+---
+
+⭐ Always interested in building projects that combine AI, Automation, and Real-World Engineering.
